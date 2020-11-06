@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goutam192002&label=Profile%20views&color=0e75b6&style=flat" alt="goutam192002" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goutam192002" alt="goutam192002" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/goutambseervi" target="blank"><img src="https://img.shields.io/twitter/follow/goutambseervi?logo=twitter&style=for-the-badge" alt="goutambseervi" /></a> </p>
 
 - 🔭 I’m currently working on [http-client](https://github.com/Goutam192002/http-client)
@@ -15,11 +13,16 @@
 
 - 📫 How to reach me **goutambseervi@gmail.com**
 
+- 📄 Know about my experiences [Have built multiple products from scratch.](Have built multiple products from scratch.)
+
 - ⚡ Fun fact **I'm 18**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/goutambseervi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="goutambseervi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/goutambseervi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="goutambseervi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/8420068" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8420068" height="30" width="40" /></a>
+<a href="https://instagram.com/_the_carver" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_the_carver" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
