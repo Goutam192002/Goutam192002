@@ -7,13 +7,11 @@
 
 - 🔭 I’m currently working on [http-client](https://github.com/Goutam192002/http-client)
 
-- 👨‍💻 All of my projects are available at [https://goutambseervi.tech](https://goutambseervi.tech)
+- 👨‍💻 Read about me here. [https://goutambseervi.tech](https://goutambseervi.tech)
 
 - 💬 Ask me about **Microfrontends to Microservices.**
 
 - 📫 How to reach me **goutambseervi@gmail.com**
-
-- 📄 Know about my experiences [Have built multiple products from scratch.](Have built multiple products from scratch.)
 
 - ⚡ Fun fact **I'm 18**
 
