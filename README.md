@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Goutam B Seervi</h1>
+<h1 align="center">Hi 👋, I'm Goutam</h1>
 <h3 align="center">I get things done.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goutam192002&label=Profile%20views&color=0e75b6&style=flat" alt="goutam192002" /> </p>
