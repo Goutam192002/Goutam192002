@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **goutam@goutambseervi.tech**
 
-- ⚡ Fun fact **I'm 18**
+- ⚡ Fun fact **I remember my Bank Details/PAN/Aadhar numbers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
