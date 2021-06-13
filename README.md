@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/goutambseervi" target="blank"><img src="https://img.shields.io/twitter/follow/goutambseervi?logo=twitter&style=for-the-badge" alt="goutambseervi" /></a> </p>
 
-- 🔭 I’m currently working on [LocalDukan](https://github.com/LocalDukan)
+- 🔭 I’m currently working on [Mockpay](https://github.com/Goutam192002/mockpay-js-checkout)
 
 - 👨‍💻 Read about me here. [https://goutambseervi.tech](https://goutambseervi.tech)
 
