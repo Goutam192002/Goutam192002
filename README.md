@@ -13,8 +13,7 @@
 
 - 📫 How to reach me **goutam@goutambseervi.tech**
 
-- ⚡ Fun fact **I remember my Bank Details/PAN/Aadhar numbers**
-
+- ⚡ Fun fact **Ants can become zombies**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/goutambseervi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="goutambseervi" height="30" width="40" /></a>
